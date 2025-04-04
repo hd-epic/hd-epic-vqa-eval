@@ -12,7 +12,7 @@ Decide which model you'd like to use, and check the config is correct. In partic
 python run_benchmark.py --mp4_dir ENCODED_MP4_PATH --questions_dir QUESTIONS_PATH --config CONFIG_PATH
 ```
 
-By default, results are cached in case your run dies. If you want to wipe the cache and start over, use ```--cached 0```. Outputs will appear in ```output/CONFIG_NAME```, w
+By default, results are cached in case your run dies. If you want to wipe the cache and start over, use ```--cached 0```. Outputs will appear in ```output/CONFIG_NAME```.
 
 Once a run has finished, you can get the results by doing:
 
