@@ -1,5 +1,3 @@
-# d-epic-vlm-eval
-
 This repo contains the code used to run the benchmark in https://hd-epic.github.io/ (CVPR 2025). 
 
 ## Quickstart
